@@ -1,5 +1,3 @@
-
-
 public class Recursion {
 
     static long fibo[] = new long[100];
@@ -126,8 +124,7 @@ public class Recursion {
         }
         // retornar término n de la secuencia almacenado en el arreglo fibo y asi mejorar la eficiencia evitando recalcularlo
         return fibo[n];
-    }
-    
+    }    
 }
 
     
